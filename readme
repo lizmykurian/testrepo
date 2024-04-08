@@ -1,1 +1,9 @@
 My test file
+
+Test Pet Store:
+
+Command to run the automation test on Swagger documentation on petstore:
+
+Step1: Clone the repo
+Step2: cd testrepo
+Step3: npx mocha test.js
